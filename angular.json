@@ -134,5 +134,8 @@
       }
     }
   },
-  "defaultProject": "CineBee"
+  "defaultProject": "CineBee",
+  "cli": {
+    "analytics": "f463f456-2605-4c70-a2a1-5a6af82e05d6"
+  }
 }
